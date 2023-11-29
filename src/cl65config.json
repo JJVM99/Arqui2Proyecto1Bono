@@ -1,0 +1,6 @@
+{
+    "executable": "C:\\cc65\\bin\\cl65",
+    "input": "fourside.asm",
+    "params": "--verbose --target nes -o fourside.nes"
+  }
+  
